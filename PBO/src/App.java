@@ -1,7 +1,7 @@
-//verrel
-//03081220031
+//Nama :Verrel
+//NIM : 03081220031
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!, nama saya verrel");
+        System.out.println("Hello, World! Nama saya Verrel");
     }
 }
